@@ -21,3 +21,10 @@ This repository contains the implementation of a deep learning model that classi
    ```bash
    git clone https://github.com/yourusername/covid19-image-classification.git
    cd covid19-image-classification
+
+## Install Dependencies
+
+Ensure you have Python installed. Then, install the required packages by running:
+
+```bash
+pip install -r requirements.txt
